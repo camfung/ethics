@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Check if a file is provided as an argument
+if [ -z "$1" ]; then
+  echo "Usage: $0 <file>"
+  exit 1
+fi
+
+# Count words on lines that do not start with a number
+word_count=$(grep -v '^[0-9]' "$1" | wc -w)
+
+# Output the result
+echo  $word_count

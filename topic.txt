@@ -1,0 +1,10 @@
+(Cameron Fung, A01268094)
+
+topic: The ethics of soft hacking
+
+dilemma:
+- Option 1: Should an individual that gains access to a sass through a backdoor exploit use it and not tell anyone?
+- Option 2: Should an individual report the bug event though they would lose free access to the exploit?
+
+thesis:
+- Option 1: An indivisual should report an exploit that they find even though they have access to the free service. 

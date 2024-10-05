@@ -1,0 +1,30 @@
+
+Part 1: Introduction
+
+Topic: The ethics of soft hacking.
+Suppose an individual, Alex, discovers a backdoor exploit that gives them free access to a popular subscription-based SaaS service like Spotify. Should Alex continue using this exploit without informing anyone, or should they report the bug to the company, knowing they will lose their free access?
+Thesis: Alex should not report the exploit they find, even though they will be stealing from the company.
+
+Part 2: Relativist View and Objectivist Argument
+
+A relativist would argue that Alex's decision could be justified by their personal values, such as believing it's okay to exploit large corporations for personal gain.
+Objectivist: One should be an objectivist because exploiting the vulnerability violates ethical principles of honesty and fairness, which apply regardless of personal benefit.
+
+Part 3: Moral Principle
+
+Kantian ethics supports the thesis because Alex has a moral duty to act with integrity and report the exploit, protecting the rights of the company and its paying users from potential harm.
+
+Part 4: Objection
+
+Objection: A utilitarian might argue that Alex using the exploit is justified if it brings them personal benefit without causing immediate, noticeable harm to others.
+
+Part 5: Response to Objection
+
+The objection is flawed because continuing to use the exploit can lead to broader security risks, undermining trust in the platform, which would cause more harm in the long run than Alex’s short-term gain.
+
+Thanks, 
+
+Cameron Fung 
+A01268094
+Set M
+

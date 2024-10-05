@@ -1,0 +1,39 @@
+0. thesis
+
+0. Topic: The ethics of soft hacking.
+0. Suppose an individual, Alex, discovers a backdoor exploit that gives them free access to a popular subscription-based SaaS service like Spotify. Should Alex continue using this exploit without informing anyone, or should they report the bug to the company, knowing they will lose their free access?
+
+0. Thesis: Alex should not report the exploit they find, even though they will be stealing from the company.
+
+1. In light of your thesis, how would a relativist interpret Alex's actions and what might they recommend to him?
+
+a relativist would speak to alex about his culture and understand what is accepted among the peers of alex. they would reccomend that alex do what would be socially accepted in alexs culture. this means that alex gets to decide what part of his culture he wants to think about and he can do what he wants depending on which part of his culture he chooses. 
+2. Are there any key flaws or limitations in the relativist's position on Alex's actions?
+
+the key flaw to the relatavists position of alexes actions is that alex gets to decide what his culture is. there is no clear distinction of what your culture is. 
+this means that alex can decide that his culture is that of the hackers that he associates with. and of course within that group the culture of accessing a paid tool for free is more of a badge of honor instead of a immoral action.
+
+3. With a rejection of relativism, how would an objectivist perceive the situation? What would they argue?
+
+an objectivist would view the situation with the belief that this is not a clear moral wrong. although being an objectivist doesnt mean that they have any specific set of moral values. it just means that they think that there is some set of values that is always correct everywhere this doesnot mean that anyone has to know or believe them 
+
+4. Could you use objectivist principles to build an argument supporting your thesis? How?
+
+an objectiveist would say that there is no clear moral rule that says that stealing is bad. 
+this can be said because there could be a situation where a person would die if they couldnt feed themselves. they have no other way of getting food other than stealing. if this person steals bread to feed their themselves does this mean that they were morally wrong for doing what they needed to keep themselves alive. 
+
+someone could easily say that this is morally wrong. an objectivist would arguee where is the line? 
+if a person is in a life and death fight is it morally wrong for them to kill the other person in order to save themselves or is it always morally wrong to kill. Does this mean that self defence is morally wrong?
+
+
+5. If you had to simplify utilitarianism in one sentence, what would it be?
+6. How would a utilitarian perspective on Alex's actions contest the objectivist position?
+7. What are some possible counterarguments to your thesis from an objectivist or utilitarian perspective?
+8. How can you defend your thesis against these counterarguments?
+9. How does your argument compare to the paradigms of prominent scholars like Stuart Mill on aspects like utilitarianism?
+10. How would Stuart Mill's stance contrast or align with your thesis and argument?
+11. If you had to adopt a specific moral principle to construct your argument, which one would it be and why?
+12. How could you incorporate this moral principle into your argument to further support your thesis?
+13. Can you envisage any opposition arguments that might arise if you pick path 1 or path 2? 
+14. How would you counter such opposition effectively, while still acknowledging the moral complexities of the situation?
+
